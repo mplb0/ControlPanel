@@ -16,6 +16,12 @@ Favor atentar as seguinte coisas:
 - Por enquanto a intenção do app é mostrar um relógio com a data e o clima da localização atual, tenho planos para incluir mais coisas.
 - Android Things está em desenvolvimento ainda, então algumas coisas podem não funcionar corretamente.
 
+O que já foi implementado:
+- Hora atual (HH:mm)
+- Data atual (EEEE, ddd MMMM yyyy)
+- Clima da localização atualizando a cada 30 minutos com imagens (Localização hard-coded, mude para outros resultados)
+- Background muda de acordo com o horário do dia
+
 Esse é só o começo desse projeto e isso aqui vai mudar muito ainda, conforme for andando no desenvolvimento eu atualizo aqui.
 
 Para saber mais sobre o Android Things https://developer.android.com/things/index.html
