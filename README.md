@@ -2,11 +2,12 @@
 Um painel de controle com Android Things no Raspberry Pi.
 
 Há meses estou planejando fazer um sistema de automação residencial.
+
 Estou planejando fazer isso com um Raspberry Pi 3 e Android Things para o servidor principal e controle dos módulos de automação.
 
 Há alguns dias comprei um Raspberry Pi 3 Model B(Pensa num negócio legal) e hoje quis fazer um teste com Android Things e o Raspberry.
 
-Aqui está o código do que eu fiz.
+Este é o código do que eu desenvolvi.
 
 Favor atentar as seguinte coisas:
 - Esse aplicativo é um teste, não fiz ele pensando em larga escala(no momento) e nem para ser usado por outras pessoas. Mude conforme sua necessidade
@@ -18,6 +19,7 @@ Favor atentar as seguinte coisas:
 Esse é só o começo desse projeto e isso aqui vai mudar muito ainda, conforme for andando no desenvolvimento eu atualizo aqui.
 
 Para saber mais sobre o Android Things https://developer.android.com/things/index.html
+
 Para saber mais sobre o Raspberry Pi 3 https://www.raspberrypi.org/products/raspberry-pi-3-model-b/ 
 
 =)
