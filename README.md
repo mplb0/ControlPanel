@@ -11,6 +11,7 @@ Aqui está o código do que eu fiz.
 Favor atentar as seguinte coisas:
 - Esse aplicativo é um teste, não fiz ele pensando em larga escala(no momento) e nem para ser usado por outras pessoas. Mude conforme sua necessidade
 - Desenvolvi o aplicativo em menos de 2 horas, com certeza haverá varios erros. Pode submeter bugs para mim, se você quiser. =)
+- Testei esse aplicativo em um monitor de 23' em Full HD, imagino que em outras resoluções ele vai ficar ruim a visualização. Vou criar os xmls dos outros layouts em uma próxima atualização.
 - Por enquanto a intenção do app é mostrar um relógio com a data e o clima da localização atual, tenho planos para incluir mais coisas.
 - Android Things está em desenvolvimento ainda, então algumas coisas podem não funcionar corretamente.
 
